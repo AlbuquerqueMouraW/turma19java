@@ -24,12 +24,6 @@ public class Exercicio2programa {
 		
 		
 		
-		
-		
-		
-		
-		
-		
 	}
 
 }
