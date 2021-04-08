@@ -26,8 +26,6 @@ public class ExRepeticao5 {
 		System.out.printf("A soma dos números é igual a %d",somaNumero);
 		
 		
-		
-		
 		sc.close();
 	}
 
